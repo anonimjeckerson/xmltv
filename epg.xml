@@ -1,0 +1,429 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.2.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="TRT 1 HD">
+    <display-name lang="tr">TRT 1 HD</display-name>
+    <url>http://www.turksatkablo.com.tr</url>
+  </channel>
+  <channel id="ATV HD">
+    <display-name lang="tr">ATV HD</display-name>
+    <url>http://www.turksatkablo.com.tr</url>
+  </channel>
+  <channel id="SHOW TV HD">
+    <display-name lang="tr">SHOW TV HD</display-name>
+    <url>http://www.turksatkablo.com.tr</url>
+  </channel>
+  <channel id="KANAL D HD">
+    <display-name lang="tr">KANAL D HD</display-name>
+    <url>http://www.turksatkablo.com.tr</url>
+  </channel>
+  <channel id="STAR TV HD">
+    <display-name lang="tr">STAR TV HD</display-name>
+    <url>http://www.turksatkablo.com.tr</url>
+  </channel>
+  <channel id="KANAL 7 HD">
+    <display-name lang="tr">KANAL 7 HD</display-name>
+    <url>http://www.turksatkablo.com.tr</url>
+  </channel>
+  <programme start="20210929020000 +0300" stop="20210929045000 +0300" channel="TRT 1 HD">
+    <title lang="tr">Benim Adım Melek</title>
+  </programme>
+  <programme start="20210929045000 +0300" stop="20210929054500 +0300" channel="TRT 1 HD">
+    <title lang="tr">Dr. Yerebakan ile Hayatın Ritmi</title>
+  </programme>
+  <programme start="20210929054500 +0300" stop="20210929085000 +0300" channel="TRT 1 HD">
+    <title lang="tr">Tövbeler Olsun</title>
+  </programme>
+  <programme start="20210929085000 +0300" stop="20210929122500 +0300" channel="TRT 1 HD">
+    <title lang="tr">Kalk Gidelim</title>
+  </programme>
+  <programme start="20210929122500 +0300" stop="20210929155500 +0300" channel="TRT 1 HD">
+    <title lang="tr">Benim Adım Melek</title>
+  </programme>
+  <programme start="20210929155500 +0300" stop="20210929190000 +0300" channel="TRT 1 HD">
+    <title lang="tr">Seksenler</title>
+  </programme>
+  <programme start="20210929190000 +0300" stop="20210929195500 +0300" channel="TRT 1 HD">
+    <title lang="tr">Ana Haber</title>
+  </programme>
+  <programme start="20210929195500 +0300" stop="20210929200000 +0300" channel="TRT 1 HD">
+    <title lang="tr">İddiaların Aksine</title>
+  </programme>
+  <programme start="20210929200000 +0300" stop="20210929213000 +0300" channel="TRT 1 HD">
+    <title lang="tr">Dünya Hali</title>
+  </programme>
+  <programme start="20210929213000 +0300" stop="20210929234500 +0300" channel="TRT 1 HD">
+    <title lang="tr">Kaçış Yok</title>
+  </programme>
+  <programme start="20210929234500 +0300" stop="20210930023500 +0300" channel="TRT 1 HD">
+    <title lang="tr">Dizi</title>
+  </programme>
+  <programme start="20210930023500 +0300" stop="20210930050000 +0300" channel="TRT 1 HD">
+    <title lang="tr">Seksenler</title>
+  </programme>
+  <programme start="20210930050000 +0300" stop="20210930055500 +0300" channel="TRT 1 HD">
+    <title lang="tr">Dr. Yerebakan ile Hayatın Ritmi</title>
+  </programme>
+  <programme start="20210930055500 +0300" stop="20210930085000 +0300" channel="TRT 1 HD">
+    <title lang="tr">Tövbeler Olsun</title>
+  </programme>
+  <programme start="20210930085000 +0300" stop="20210930122500 +0300" channel="TRT 1 HD">
+    <title lang="tr">Kalk Gidelim</title>
+  </programme>
+  <programme start="20210930122500 +0300" stop="20210930160000 +0300" channel="TRT 1 HD">
+    <title lang="tr">Benim Adım Melek</title>
+  </programme>
+  <programme start="20210930160000 +0300" stop="20210930190000 +0300" channel="TRT 1 HD">
+    <title lang="tr">Seksenler</title>
+  </programme>
+  <programme start="20210930190000 +0300" stop="20210930200000 +0300" channel="TRT 1 HD">
+    <title lang="tr">Ana Haber</title>
+  </programme>
+  <programme start="20210930200000 +0300" stop="20211001001500 +0300" channel="TRT 1 HD">
+    <title lang="tr">Barbaroslar Akdeniz'in Kılıcı</title>
+  </programme>
+  <programme start="20211001001500 +0300" stop="20211001030500 +0300" channel="TRT 1 HD">
+    <title lang="tr">Dizi</title>
+  </programme>
+  <programme start="20211001030500 +0300" stop="20211001052000 +0300" channel="TRT 1 HD">
+    <title lang="tr">Seksenler</title>
+  </programme>
+  <programme start="20211001052000 +0300" stop="20211001061500 +0300" channel="TRT 1 HD">
+    <title lang="tr">Dr. Yerebakan ile Hayatın Ritmi</title>
+  </programme>
+  <programme start="20211001061500 +0300" stop="20211001091000 +0300" channel="TRT 1 HD">
+    <title lang="tr">Tövbeler Olsun</title>
+  </programme>
+  <programme start="20211001091000 +0300" stop="20211001123000 +0300" channel="TRT 1 HD">
+    <title lang="tr">Kalk Gidelim</title>
+  </programme>
+  <programme start="20211001123000 +0300" stop="20211001160500 +0300" channel="TRT 1 HD">
+    <title lang="tr">Benim Adım Melek</title>
+  </programme>
+  <programme start="20211001160500 +0300" stop="20211001190000 +0300" channel="TRT 1 HD">
+    <title lang="tr">Seksenler</title>
+  </programme>
+  <programme start="20211001200000 +0300" stop="20211001223000 +0300" channel="TRT 1 HD">
+    <title lang="tr">Son Üç Gün</title>
+  </programme>
+  <programme start="20211001223000 +0300" stop="20211002011500 +0300" channel="TRT 1 HD">
+    <title lang="tr">Ayla</title>
+  </programme>
+  <programme start="20210929002500 +0300" stop="20210929034000 +0300" channel="ATV HD">
+    <title lang="tr">Kardeşlerim</title>
+  </programme>
+  <programme start="20210929034000 +0300" stop="20210929055500 +0300" channel="ATV HD">
+    <title lang="tr">Zahide Yetiş ile Mutfak Bahane</title>
+  </programme>
+  <programme start="20210929055500 +0300" stop="20210929080000 +0300" channel="ATV HD">
+    <title lang="tr">Akıncı</title>
+  </programme>
+  <programme start="20210929080000 +0300" stop="20210929100000 +0300" channel="ATV HD">
+    <title lang="tr">Kahvaltı Haberleri</title>
+  </programme>
+  <programme start="20210929100000 +0300" stop="20210929130000 +0300" channel="ATV HD">
+    <title lang="tr">Müge Anlı ile Tatlı Sert</title>
+  </programme>
+  <programme start="20210929130000 +0300" stop="20210929140000 +0300" channel="ATV HD">
+    <title lang="tr">Gün Ortası</title>
+  </programme>
+  <programme start="20210929140000 +0300" stop="20210929162000 +0300" channel="ATV HD">
+    <title lang="tr">Zahide Yetiş ile Mutfak Bahane</title>
+  </programme>
+  <programme start="20210929162000 +0300" stop="20210929190000 +0300" channel="ATV HD">
+    <title lang="tr">Esra Erol'da</title>
+  </programme>
+  <programme start="20210929190000 +0300" stop="20210929200000 +0300" channel="ATV HD">
+    <title lang="tr">ATV Ana Haber</title>
+  </programme>
+  <programme start="20210929200000 +0300" stop="20210929220000 +0300" channel="ATV HD">
+    <title lang="tr">Venom: Zehirli Öfke</title>
+  </programme>
+  <programme start="20210929220000 +0300" stop="20210930023000 +0300" channel="ATV HD">
+    <title lang="tr">Tarzan Efsanesi</title>
+  </programme>
+  <programme start="20210930023000 +0300" stop="20210930044500 +0300" channel="ATV HD">
+    <title lang="tr">Zahide Yetiş ile Mutfak Bahane</title>
+  </programme>
+  <programme start="20210930044500 +0300" stop="20210930080000 +0300" channel="ATV HD">
+    <title lang="tr">Akıncı</title>
+  </programme>
+  <programme start="20210930200000 +0300" stop="20211001002000 +0300" channel="ATV HD">
+    <title lang="tr">Bir Zamanlar Çukurova</title>
+  </programme>
+  <programme start="20211001002000 +0300" stop="20211001014000 +0300" channel="ATV HD">
+    <title lang="tr">Nihat Hatipoğlu ile Dosta Doğru</title>
+  </programme>
+  <programme start="20211001014000 +0300" stop="20211001035500 +0300" channel="ATV HD">
+    <title lang="tr">Zahide Yetiş ile Mutfak Bahane</title>
+  </programme>
+  <programme start="20211001035500 +0300" stop="20211001070000 +0300" channel="ATV HD">
+    <title lang="tr">Akıncı</title>
+  </programme>
+  <programme start="20211001070000 +0300" stop="20211001083000 +0300" channel="ATV HD">
+    <title lang="tr">Kahvaltı Haberleri</title>
+  </programme>
+  <programme start="20211001083000 +0300" stop="20211001100000 +0300" channel="ATV HD">
+    <title lang="tr">Nihat Hatipoğlu Sorularınızı Cevaplıyor</title>
+  </programme>
+  <programme start="20211001190000 +0300" stop="20211002002000 +0300" channel="ATV HD">
+    <title lang="tr">ATV Ana Haber</title>
+  </programme>
+  <programme start="20210929001500 +0300" stop="20210929021500 +0300" channel="SHOW TV HD">
+    <title lang="tr">Yalancı</title>
+  </programme>
+  <programme start="20210929021500 +0300" stop="20210929043000 +0300" channel="SHOW TV HD">
+    <title lang="tr">İçimizden Biri</title>
+  </programme>
+  <programme start="20210929043000 +0300" stop="20210929063000 +0300" channel="SHOW TV HD">
+    <title lang="tr">Yeni Gelin</title>
+  </programme>
+  <programme start="20210929063000 +0300" stop="20210929083000 +0300" channel="SHOW TV HD">
+    <title lang="tr">1 Başka Güzel</title>
+  </programme>
+  <programme start="20210929083000 +0300" stop="20210929110000 +0300" channel="SHOW TV HD">
+    <title lang="tr">Bu Sabah</title>
+  </programme>
+  <programme start="20210929110000 +0300" stop="20210929123000 +0300" channel="SHOW TV HD">
+    <title lang="tr">Kuzey Yıldızı: İlk Aşk</title>
+  </programme>
+  <programme start="20210929123000 +0300" stop="20210929130000 +0300" channel="SHOW TV HD">
+    <title lang="tr">1 Başka Güzel Hazırlık</title>
+  </programme>
+  <programme start="20210929130000 +0300" stop="20210929150000 +0300" channel="SHOW TV HD">
+    <title lang="tr">1 Başka Güzel</title>
+  </programme>
+  <programme start="20210929150000 +0300" stop="20210929181000 +0300" channel="SHOW TV HD">
+    <title lang="tr">Didem Arslan Yılmaz'la Vazgeçme</title>
+  </programme>
+  <programme start="20210929181000 +0300" stop="20210929184500 +0300" channel="SHOW TV HD">
+    <title lang="tr">Senin Hayatın</title>
+  </programme>
+  <programme start="20210929184500 +0300" stop="20210929200000 +0300" channel="SHOW TV HD">
+    <title lang="tr">Show Ana Haber</title>
+  </programme>
+  <programme start="20210929200000 +0300" stop="20210929223000 +0300" channel="SHOW TV HD">
+    <title lang="tr">Yalancı</title>
+  </programme>
+  <programme start="20210929223000 +0300" stop="20210930001500 +0300" channel="SHOW TV HD">
+    <title lang="tr">Atla Gel Şaban</title>
+  </programme>
+  <programme start="20210930001500 +0300" stop="20210930021500 +0300" channel="SHOW TV HD">
+    <title lang="tr">Görevimiz Tatil</title>
+  </programme>
+  <programme start="20210930021500 +0300" stop="20210930040000 +0300" channel="SHOW TV HD">
+    <title lang="tr">Görevimiz Tatil</title>
+  </programme>
+  <programme start="20210930040000 +0300" stop="20210930063000 +0300" channel="SHOW TV HD">
+    <title lang="tr">Yeni Gelin</title>
+  </programme>
+  <programme start="20210930063000 +0300" stop="20210930083000 +0300" channel="SHOW TV HD">
+    <title lang="tr">1 Başka Güzel</title>
+  </programme>
+  <programme start="20210930083000 +0300" stop="20210930110000 +0300" channel="SHOW TV HD">
+    <title lang="tr">Bu Sabah</title>
+  </programme>
+  <programme start="20210930200000 +0300" stop="20210930223000 +0300" channel="SHOW TV HD">
+    <title lang="tr">Eltilerin Savaşı</title>
+  </programme>
+  <programme start="20210930223000 +0300" stop="20211001010000 +0300" channel="SHOW TV HD">
+    <title lang="tr">Eltilerin Savaşı</title>
+  </programme>
+  <programme start="20211001010000 +0300" stop="20211001030000 +0300" channel="SHOW TV HD">
+    <title lang="tr">Yalancı</title>
+  </programme>
+  <programme start="20211001030000 +0300" stop="20211001063000 +0300" channel="SHOW TV HD">
+    <title lang="tr">İçimizden Biri</title>
+  </programme>
+  <programme start="20211001200000 +0300" stop="20211001231500 +0300" channel="SHOW TV HD">
+    <title lang="tr">Yalancı</title>
+  </programme>
+  <programme start="20211001231500 +0300" stop="20211002013000 +0300" channel="SHOW TV HD">
+    <title lang="tr">Cici Babam</title>
+  </programme>
+  <programme start="20210929001500 +0300" stop="20210929023000 +0300" channel="KANAL D HD">
+    <title lang="tr">Yargı</title>
+  </programme>
+  <programme start="20210929023000 +0300" stop="20210929044500 +0300" channel="KANAL D HD">
+    <title lang="tr">Gelinim Mutfakta</title>
+  </programme>
+  <programme start="20210929044500 +0300" stop="20210929071500 +0300" channel="KANAL D HD">
+    <title lang="tr">Ece Üner ile Susma</title>
+  </programme>
+  <programme start="20210929071500 +0300" stop="20210929090000 +0300" channel="KANAL D HD">
+    <title lang="tr">Sihirli Annem</title>
+  </programme>
+  <programme start="20210929090000 +0300" stop="20210929110000 +0300" channel="KANAL D HD">
+    <title lang="tr">Neler Oluyor Hayatta</title>
+  </programme>
+  <programme start="20210929110000 +0300" stop="20210929121500 +0300" channel="KANAL D HD">
+    <title lang="tr">Kırık Hayatlar</title>
+  </programme>
+  <programme start="20210929121500 +0300" stop="20210929154500 +0300" channel="KANAL D HD">
+    <title lang="tr">Gelinim Mutfakta</title>
+  </programme>
+  <programme start="20210929154500 +0300" stop="20210929190000 +0300" channel="KANAL D HD">
+    <title lang="tr">Ece Üner ile Susma</title>
+  </programme>
+  <programme start="20210929190000 +0300" stop="20210929200000 +0300" channel="KANAL D HD">
+    <title lang="tr">Kanal D Ana Haber</title>
+  </programme>
+  <programme start="20210929200000 +0300" stop="20210929231500 +0300" channel="KANAL D HD">
+    <title lang="tr">Sadakatsiz</title>
+  </programme>
+  <programme start="20210929231500 +0300" stop="20210930001500 +0300" channel="KANAL D HD">
+    <title lang="tr">67. Gillette Milliyet Yılın Sporcusu Ödülü</title>
+  </programme>
+  <programme start="20210930001500 +0300" stop="20210930024500 +0300" channel="KANAL D HD">
+    <title lang="tr">Yargı</title>
+  </programme>
+  <programme start="20210930024500 +0300" stop="20210930044500 +0300" channel="KANAL D HD">
+    <title lang="tr">Kırık Hayatlar</title>
+  </programme>
+  <programme start="20210930044500 +0300" stop="20210930063000 +0300" channel="KANAL D HD">
+    <title lang="tr">Ece Üner ile Susma</title>
+  </programme>
+  <programme start="20210930063000 +0300" stop="20210930090000 +0300" channel="KANAL D HD">
+    <title lang="tr">Sihirli Annem</title>
+  </programme>
+  <programme start="20210930200000 +0300" stop="20211001001500 +0300" channel="KANAL D HD">
+    <title lang="tr">Camdaki Kız</title>
+  </programme>
+  <programme start="20211001001500 +0300" stop="20211001023000 +0300" channel="KANAL D HD">
+    <title lang="tr">Yargı</title>
+  </programme>
+  <programme start="20211001023000 +0300" stop="20211001043000 +0300" channel="KANAL D HD">
+    <title lang="tr">Gelinim Mutfakta</title>
+  </programme>
+  <programme start="20211001043000 +0300" stop="20211001070000 +0300" channel="KANAL D HD">
+    <title lang="tr">Ece Üner ile Susma</title>
+  </programme>
+  <programme start="20211001070000 +0300" stop="20211001090000 +0300" channel="KANAL D HD">
+    <title lang="tr">Sihirli Annem</title>
+  </programme>
+  <programme start="20211001200000 +0300" stop="20211002070000 +0300" channel="KANAL D HD">
+    <title lang="tr">Arka Sokaklar</title>
+  </programme>
+  <programme start="20210929001500 +0300" stop="20210929030000 +0300" channel="STAR TV HD">
+    <title lang="tr">Sabahın Sultanı Seda Sayan</title>
+  </programme>
+  <programme start="20210929030000 +0300" stop="20210929050000 +0300" channel="STAR TV HD">
+    <title lang="tr">Güzel Köylü</title>
+  </programme>
+  <programme start="20210929050000 +0300" stop="20210929070000 +0300" channel="STAR TV HD">
+    <title lang="tr">Kiralık Aşk</title>
+  </programme>
+  <programme start="20210929070000 +0300" stop="20210929094500 +0300" channel="STAR TV HD">
+    <title lang="tr">Mesut Yar ile Bugün</title>
+  </programme>
+  <programme start="20210929094500 +0300" stop="20210929130000 +0300" channel="STAR TV HD">
+    <title lang="tr">Sabahın Sultanı Seda Sayan</title>
+  </programme>
+  <programme start="20210929130000 +0300" stop="20210929160000 +0300" channel="STAR TV HD">
+    <title lang="tr">Gerçeğin Peşinde</title>
+  </programme>
+  <programme start="20210929160000 +0300" stop="20210929183000 +0300" channel="STAR TV HD">
+    <title lang="tr">Kiralık Aşk</title>
+  </programme>
+  <programme start="20210929183000 +0300" stop="20210929200000 +0300" channel="STAR TV HD">
+    <title lang="tr">Star Haber</title>
+  </programme>
+  <programme start="20210929200000 +0300" stop="20210929223000 +0300" channel="STAR TV HD">
+    <title lang="tr">Hükümet Kadın</title>
+  </programme>
+  <programme start="20210929223000 +0300" stop="20210930003000 +0300" channel="STAR TV HD">
+    <title lang="tr">Hükümet Kadın</title>
+  </programme>
+  <programme start="20210930003000 +0300" stop="20210930030000 +0300" channel="STAR TV HD">
+    <title lang="tr">Sabahın Sultanı Seda Sayan</title>
+  </programme>
+  <programme start="20210930030000 +0300" stop="20210930050000 +0300" channel="STAR TV HD">
+    <title lang="tr">Güzel Köylü</title>
+  </programme>
+  <programme start="20210930200000 +0300" stop="20211001001500 +0300" channel="STAR TV HD">
+    <title lang="tr">Kazara Aşk</title>
+  </programme>
+  <programme start="20211001001500 +0300" stop="20211001030000 +0300" channel="STAR TV HD">
+    <title lang="tr">Sabahın Sultanı Seda Sayan</title>
+  </programme>
+  <programme start="20211001030000 +0300" stop="20211001050000 +0300" channel="STAR TV HD">
+    <title lang="tr">Güzel Köylü</title>
+  </programme>
+  <programme start="20211001200000 +0300" stop="20211001221500 +0300" channel="STAR TV HD">
+    <title lang="tr">Dedemin Fişi</title>
+  </programme>
+  <programme start="20211001221500 +0300" stop="20211002003000 +0300" channel="STAR TV HD">
+    <title lang="tr">Dedemin Fişi</title>
+  </programme>
+  <programme start="20210929001500 +0300" stop="20210929030000 +0300" channel="KANAL 7 HD">
+    <title lang="tr">Dönüş</title>
+  </programme>
+  <programme start="20210929030000 +0300" stop="20210929063000 +0300" channel="KANAL 7 HD">
+    <title lang="tr">Tekrar Programlar</title>
+  </programme>
+  <programme start="20210929063000 +0300" stop="20210929074500 +0300" channel="KANAL 7 HD">
+    <title lang="tr">Kanal 7'de Sabah</title>
+  </programme>
+  <programme start="20210929074500 +0300" stop="20210929090000 +0300" channel="KANAL 7 HD">
+    <title lang="tr">TV Filmi</title>
+  </programme>
+  <programme start="20210929090000 +0300" stop="20210929105000 +0300" channel="KANAL 7 HD">
+    <title lang="tr">Yuvamı Yıkamazsın</title>
+  </programme>
+  <programme start="20210929105000 +0300" stop="20210929124500 +0300" channel="KANAL 7 HD">
+    <title lang="tr">Nermin’in Enfes Mutfağı</title>
+  </programme>
+  <programme start="20210929124500 +0300" stop="20210929143000 +0300" channel="KANAL 7 HD">
+    <title lang="tr">Baş Tacım</title>
+  </programme>
+  <programme start="20210929143000 +0300" stop="20210929153000 +0300" channel="KANAL 7 HD">
+    <title lang="tr">Mutfağım Şahane</title>
+  </programme>
+  <programme start="20210929153000 +0300" stop="20210929180000 +0300" channel="KANAL 7 HD">
+    <title lang="tr">Can Yoldaşım</title>
+  </programme>
+  <programme start="20210929180000 +0300" stop="20210929190000 +0300" channel="KANAL 7 HD">
+    <title lang="tr">Kanal 7 Haber Saati</title>
+  </programme>
+  <programme start="20210929190000 +0300" stop="20210929211500 +0300" channel="KANAL 7 HD">
+    <title lang="tr">Emanet</title>
+  </programme>
+  <programme start="20210929211500 +0300" stop="20210930001500 +0300" channel="KANAL 7 HD">
+    <title lang="tr">Diriliş Ertuğrul</title>
+  </programme>
+  <programme start="20210930001500 +0300" stop="20210930030000 +0300" channel="KANAL 7 HD">
+    <title lang="tr">Emanet ve İhanet</title>
+  </programme>
+  <programme start="20210930074500 +0300" stop="20210930093000 +0300" channel="KANAL 7 HD">
+    <title lang="tr">Gülcü Baba</title>
+  </programme>
+  <programme start="20210930093000 +0300" stop="20210930113000 +0300" channel="KANAL 7 HD">
+    <title lang="tr">Muhabbet Kapısı</title>
+  </programme>
+  <programme start="20210930113000 +0300" stop="20210930124500 +0300" channel="KANAL 7 HD">
+    <title lang="tr">Nermin’in Enfes Mutfağı</title>
+  </programme>
+  <programme start="20210930143000 +0300" stop="20210930153000 +0300" channel="KANAL 7 HD">
+    <title lang="tr">Mutfağım Şahane</title>
+  </programme>
+  <programme start="20210930211500 +0300" stop="20211001001500 +0300" channel="KANAL 7 HD">
+    <title lang="tr">Diriliş Ertuğrul</title>
+  </programme>
+  <programme start="20211001001500 +0300" stop="20211001030000 +0300" channel="KANAL 7 HD">
+    <title lang="tr">Fadime'nin Destanı</title>
+  </programme>
+  <programme start="20211001074500 +0300" stop="20211001093000 +0300" channel="KANAL 7 HD">
+    <title lang="tr">Tohum</title>
+  </programme>
+  <programme start="20211001093000 +0300" stop="20211001113000 +0300" channel="KANAL 7 HD">
+    <title lang="tr">Cuma Sohbetleri</title>
+  </programme>
+  <programme start="20211001113000 +0300" stop="20211001124500 +0300" channel="KANAL 7 HD">
+    <title lang="tr">Nermin’in Enfes Mutfağı</title>
+  </programme>
+  <programme start="20211001143000 +0300" stop="20211001153000 +0300" channel="KANAL 7 HD">
+    <title lang="tr">Mutfağım Şahane</title>
+  </programme>
+  <programme start="20211001211500 +0300" stop="20211002001500 +0300" channel="KANAL 7 HD">
+    <title lang="tr">Yemin</title>
+  </programme>
+</tv>
